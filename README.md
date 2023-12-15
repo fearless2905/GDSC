@@ -1,3 +1,3 @@
-# GDSC
+# GDSC UPNVJT
 Backend/Cloud Repository
 
